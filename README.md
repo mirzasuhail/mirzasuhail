@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 B.Tech in Artificial Intelligence & Machine Learning<br>💡 Passionate about solving real-world problems using AI<br>⚙️ Experienced in building ML-based applications<br>🚀 Currently working on advanced AI projects & improving deployment skills<br>🎯 Goal: High-impact AI Engineer & Tech Innovator
 
 
